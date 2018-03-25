@@ -60,7 +60,7 @@ You Can even pay for the purchase directly on the platform also powered by block
 * Start truffle blockchain using ``` truffle develop ``` 
 * In the truffle console, ``` compile ``` then ``` migrate ```
 
-* Open a new terminal and cd into the folder, then run ``` npm build ```
+* Open a new terminal and cd into the folder, then run ``` npm run build ```
 *  Navigate to ``` localhost:5020 ```
 
 
